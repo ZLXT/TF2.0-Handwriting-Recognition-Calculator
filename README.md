@@ -30,7 +30,7 @@
 
 #### CNN模型训练文件
 
-在使用时需要先下载对应的训练图片集。一共有两个，一个是标准[MINST数据集](https://zlxt.lanzous.com/icwotob)，另外一个是[我自己手写收集的训练集](https://zlxt.lanzous.com/icwottg)。如果需要收集自己的手写数字图片，可以使用Collect_Pictures.py。
+在使用时需要先下载对应的训练图片集。一共有两个，一个是标准[MINST数据集](https://zlxt.lanzoui.com/icwotob)，另外一个是[我自己手写收集的训练集](https://zlxt.lanzoui.com/icwottg)。如果需要收集自己的手写数字图片，可以使用Collect_Pictures.py。
 
 运行前，代码需要修改图像的路径。
 
